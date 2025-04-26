@@ -1,0 +1,36 @@
+/* Header */
+
+.logo__img {
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+    padding-top: 0.5rem;
+}
+
+h2 {
+    display: inline;
+    position: relative;
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    padding-top: 0;
+}
+
+.naw {
+    position: fixed;
+    background-color: yellow;
+    border: 0.2rem solid orange;
+    
+}
+
+.table {
+    padding: 0.5rem;
+    background-color: pink;
+    border: 0.1rem solid red;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    padding: 0.7rem 0.5rem;
+}
