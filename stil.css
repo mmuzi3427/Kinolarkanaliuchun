@@ -1,6 +1,6 @@
 /* Header */
 
-.logo__img {
+/*.logo__img {
     height: 2.5rem;
     width: 2.5rem;
     border-radius: 50%;
@@ -33,4 +33,33 @@ a {
     text-decoration: none;
     color: blue;
     padding: 0.7rem 0.5rem;
+}
+*/
+
+body {
+    background-image: url('https://telegra.ph/file/5b9033aea5c923f4e9718.jpg');
+    width: 100%;
+}
+
+.background_style {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.index_img {
+    height: 1.2rem;
+}
+
+.centerxmain {
+    text-align: center;
+}
+
+.actiona:select {
+    width: 100%;
+}
+
+
+.centermovie {
+    text-align: center;
 }
